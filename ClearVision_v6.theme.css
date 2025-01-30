@@ -16,8 +16,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #9027e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #ffffff; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /* url links accent color [default: var(--main-color)] */
@@ -42,7 +42,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ac7d1c8d-1921-474d-8b70-12169bfb149e/dfqv3bi-89dc678f-6f44-40eb-9237-a2f8fd778da8.png/v1/fill/w_1280,h_720,q_80,strp/dark_desktop_background_in_4k_one_piece_by_trutkach_dfqv3bi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYWM3ZDFjOGQtMTkyMS00NzRkLThiNzAtMTIxNjliZmIxNDllXC9kZnF2M2JpLTg5ZGM2NzhmLTZmNDQtNDBlYi05MjM3LWEyZjhmZDc3OGRhOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5P79_oal_SN7IvT7OR1bzj2Ygn2cdtRVPJc6ye-K06U); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
